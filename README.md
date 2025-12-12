@@ -21,7 +21,15 @@ I am following a self-structured path to become a Data Analyst. Here is my progr
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
   </a> 
 </p>
+### 📂 My Active Repositories
+Since I'm focused on learning, here are the main repositories I'm currently working on:
 
+| Repository | Focus | Status |
+| :--- | :--- | :--- |
+| **[Python-Practice-Log](https://github.com/Sagar26321/Python-Practice-Log)** | Python Fundamentals | Actively practicing |
+| **[Future-SQL-Projects](https://github.com/Sagar26321/Future-SQL-Projects)** | *Placeholder for upcoming projects* | Planning |
+
+---
 ---
 
 ### 🤝 Connect with Me
