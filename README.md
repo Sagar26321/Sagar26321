@@ -31,25 +31,5 @@ Since I'm focused on learning, here are the main repositories I'm currently work
 
 ---
 ---
-# 🏰 The Tower Adventure Game
 
-A text-based adventure logic engine built with **Python**.
-
-## 🚀 Features
-- **Function-based rooms:** Each location is a modular function.
-- **State management:** Uses a `while` loop to track player location.
-- **Input handling:** Processes user choices and handles errors.
-
-## 🛠️ How to Run
-1. Make sure you have Python installed.
-2. Run `python main.py` in your terminal.
-
-### 🤝 Connect with Me
-I'd love to connect with other learners or mentors!
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sagar-dey-analytic" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-</p>
----
 
