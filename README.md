@@ -29,6 +29,13 @@ Since I'm focused on learning, here are the main repositories I'm currently work
 | **[Python-Practice-Log](https://github.com/Sagar26321/Python-Practice-Log)** | Python Fundamentals | Actively practicing |
 | **[Future-SQL-Projects](https://github.com/Sagar26321/Future-SQL-Projects)** | *Placeholder for upcoming projects* | Planning |
 
+### 🤝 Connect with Me
+I'd love to connect with other learners or mentors!
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sagar-dey-analytic" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</p>
 ---
 ---
 
