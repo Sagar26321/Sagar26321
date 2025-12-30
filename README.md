@@ -9,15 +9,15 @@
 ### 👨‍💻 About Me
 I am an aspiring Data Analyst currently mastering the fundamentals of programming and data manipulation. I focus on building logical engines and documenting my growth daily.
 
-- 🔭 **Featured Project:** [The Adventure Game - Tower Adventure](https://github.com/Sagar26321)
-- 🌱 **Learning Path:** Python Basics → Pandas/NumPy → Matplotlib/Seaborn → SQL  → Power BI
+- 🔭 **Featured Project:** [The Adventure Game - Tower Adventure](https://github.com/Sagar26321/Python-Practice-Log/blob/main/adventuregame.py)
+- 🌱 **Learning Path:** Python Basics → SQL → Pandas/NumPy → Power BI
 - 💬 **Ask me about:** Python logic, GenAI basics, and my transition into Data Analytics
 
 ---
 
 ### 🗺️ My Learning Roadmap
 - [x] **Python Basics** (Mastering Logic 🐍)
-- [ ] **Python Libraries** (Pandas, NumPy, Matplotlib, Seaborn)
+- [ ] **Python Libraries** (Pandas, NumPy)
 - [ ] **SQL & Databases** (Next Goal 🗄️)
 - [ ] **Data Visualization** (Power BI / Tableau)
 - [ ] **First End-to-End Data Project**
@@ -35,19 +35,19 @@ I am an aspiring Data Analyst currently mastering the fundamentals of programmin
 
 ### 🌟 Featured Python Projects
 
-#### 🏰 [The Adventure Game: Tower Adventure](https://github.com/Sagar26321)
+#### 🏰 [The Adventure Game: Tower Adventure](https://github.com/Sagar26321/Python-Practice-Log/blob/main/adventuregame.py)
 *A text-based game built from the ground up focusing on complex logic.*
 - **Key Features:** Modular functions for clean code, state management for player progress, and input validation.
 
-#### 🔐 [Password Strength Checker](https://github.com/Sagar26321/Python-Practice-Log)
+#### 🔐 [Password Strength Checker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/password_strength_checker.py)
 *Evaluates security strength using string iteration and boolean flags.*
 - **Focus:** `for` loops, character inspection, and conditional branching for scoring.
 
-#### 💰 [Real-time Budget Tracker](https://github.com/Sagar26321/Python-Practice-Log)
+#### 💰 [Real-time Budget Tracker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/shoppinglist.py)
 *A shopping list budgeter providing live feedback on currency flow.*
-- **Focus:** `while` loops for continuous data entry and floating-point math for accuracy.
+- **Focus:** `while` loops, list manipulation, and floating-point math for accuracy.
 
-#### 🎮 [Snake Water Gun Game](https://github.com/Sagar26321/Python-Practice-Log)
+#### 🎮 [Snake Water Gun Game](https://github.com/Sagar26321/Python-Practice-Log/blob/main/main.py)
 *A terminal-based classic implementing randomized computer moves.*
 
 ---
@@ -60,13 +60,6 @@ I am an aspiring Data Analyst currently mastering the fundamentals of programmin
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sagar26321&show_icons=true&theme=tokyonight&border_radius=10" alt="Sagar's Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar26321&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-</p>
 
 ---
 
