@@ -6,29 +6,28 @@ I am a **Tech Enthusiast** dedicated to uncovering the logical architecture that
 
 ### 🚀 Technical Projects (Logic Engines)
 
-* **🏧 ATM System Simulation**
+* **[🏧 ATM System Simulation](https://github.com/Sagar26321/Python-Practice-Log/blob/main/atm_simulation.py)**
     * **Focus**: Functional Programming & Transactional Logic.
-    * **Logic**: A modular system built with Python definitions to manage secure user sessions, withdrawal limits, and real-time balance calculations through conditional flows.
-
-* **🏰 Tower Adventure Game**
+    * **Logic**: A modular system built with Python **definitions** to manage secure sessions, withdrawal limits, and real-time balance calculations through conditional flows.
+* **[🏰 Tower Adventure Game](https://github.com/Sagar26321/Python-Practice-Log/blob/main/Tower_Adventure_Game.py)**
     * **Focus**: Complex State Management & Narrative Flow.
-    * **Logic**: Utilizes nested data structures to map dynamic user decision trees.
-* **🔐 Password Strength Evaluator**
+    * **Logic**: Utilizes nested data structures to map dynamic user decision trees and game states.
+* **[🔐 Password Strength Evaluator](https://github.com/Sagar26321/Python-Practice-Log/blob/main/password_strength_checker.py)**
     * **Focus**: Security Algorithms & String Analytics.
-    * **Logic**: Employs Boolean logic to verify character diversity against security protocols.
-* **💰 Real-Time Budget Tracker**
+    * **Logic**: Employs Boolean logic to verify character diversity and length against global security protocols.
+* **[💰 Real-Time Budget Tracker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/budget_tracker.py)**
     * **Focus**: User Interaction & Data Flow.
-    * **Logic**: An interactive tool designed to manage financial inputs with dynamic feedback.
-* **🎮 Snake Water Gun**
+    * **Logic**: An interactive tool designed to manage financial inputs with dynamic feedback and automated balance tracking.
+* **[🎮 Snake Water Gun](https://github.com/Sagar26321/Python-Practice-Log/blob/main/main.py)**
     * **Focus**: Randomization Algorithms.
-    * **Logic**: Built using conditional loops and randomization logic to simulate competitive play.
+    * **Logic**: Built using conditional loops and randomization logic to simulate competitive play patterns.
 
 ---
 
 ### 📜 Verified Credentials & Learning Stack
 
 **🛠️ Technical Stack:**
-* **Programming**: Python (Logic, Data Structures, Input Handling).
+* **Programming**: Python (Logic, Data Structures, Input Handling, Functional Programming).
 * **Mathematics**: Foundational Linear Algebra for Machine Learning.
 * **Systems**: Git/GitHub, VS Code, Terminal Navigation.
 
@@ -42,7 +41,7 @@ I am a **Tech Enthusiast** dedicated to uncovering the logical architecture that
 
 ### 🌍 Personal Logic & Languages
 
-* **Languages**: Bengali (Native), Hindi (Fluent), English (Professional), **German (A1 - In Progress)**.
+* **Languages**: Bengali (Native), Hindi (Fluent), English (Professional Working Proficiency), **German (A1 - In Progress)**.
 * **Disciplines**: 🎻 **Violin** (Precision & Focus), 🎨 **Sketching** (Visual Logic), 🏏 **Cricket** (Strategic Teamwork).
 
 ---
