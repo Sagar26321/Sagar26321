@@ -1,6 +1,6 @@
-# 👋 I'm Sagar | Technical Explorer & Logic Builder
+# 👋 I'm Sagar | Aspiring Data Analyst & Python Developer
 
-I am a **Tech Enthusiast** dedicated to uncovering the logical architecture that powers our digital world. Currently, I am building a rigorous foundation in **Python** and **Data Engineering**, with a deep fascination for the future of **AI and Machine Learning**.
+I am a **Tech Enthusiast** driven by the internal logic that powers our digital world. My journey into technology is fueled by a fascination with AI and Machine Learning. Currently, I am building my foundation from the ground up, documenting every step of my progress in real-time.
 
 ---
 
@@ -8,47 +8,54 @@ I am a **Tech Enthusiast** dedicated to uncovering the logical architecture that
 
 * **[🏧 ATM System Simulation](https://github.com/Sagar26321/Python-Practice-Log/blob/main/atm_simulation.py)**
     * **Focus**: Functional Programming & Transactional Logic.
-    * **Logic**: A modular system built with Python **definitions** to manage secure sessions, withdrawal limits, and real-time balance calculations through conditional flows.
+    * **Logic**: Built using definitions, loops, and conditionals to manage secure sessions and real-time balance calculations.
 * **[🏰 Tower Adventure Game](https://github.com/Sagar26321/Python-Practice-Log/blob/main/Tower_Adventure_Game.py)**
-    * **Focus**: Complex State Management & Narrative Flow.
-    * **Logic**: Utilizes nested data structures to map dynamic user decision trees and game states.
-* **[🔐 Password Strength Evaluator](https://github.com/Sagar26321/Python-Practice-Log/blob/main/password_strength_checker.py)**
-    * **Focus**: Security Algorithms & String Analytics.
-    * **Logic**: Employs Boolean logic to verify character diversity and length against global security protocols.
+    * **Focus**: Complex Logic & State Management.
+    * **Logic**: A text-based adventure game showcasing advanced Python logic and state handling.
+* **[🔐 Password Strength Checker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/password_strength_checker.py)**
+    * **Focus**: String Manipulation & Boolean Logic.
+    * **Logic**: An intelligent tool to evaluate password security using string operations.
 * **[💰 Real-Time Budget Tracker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/budget_tracker.py)**
-    * **Focus**: User Interaction & Data Flow.
-    * **Logic**: An interactive tool designed to manage financial inputs with dynamic feedback and automated balance tracking.
-* **[🎮 Snake Water Gun](https://github.com/Sagar26321/Python-Practice-Log/blob/main/main.py)**
-    * **Focus**: Randomization Algorithms.
-    * **Logic**: Built using conditional loops and randomization logic to simulate competitive play patterns.
+    * **Focus**: User Interaction & While Loops.
+    * **Logic**: An interactive budget management tool with dynamic user input handling.
+* **[🎮 Snake Water Gun](https://github.com/Sagar26321/Python-Practice-Log/blob/main/snake_water_gun.py)**
+    * **Focus**: Logic and Conditionals.
+    * **Logic**: A game implementation using Python's random module and conditional branching.
 
 ---
 
-### 📜 Verified Credentials & Learning Stack
-
-**🛠️ Technical Stack:**
-* **Programming**: Python (Logic, Data Structures, Input Handling, Functional Programming).
-* **Mathematics**: Foundational Linear Algebra for Machine Learning.
-* **Systems**: Git/GitHub, VS Code, Terminal Navigation.
-
-**🎓 Key Certifications:**
-* **Google Cloud**: GenAI Foundations & Large Language Model (LLM) Architecture.
-* **LinkedIn Learning**: Machine Learning Foundations & Responsible AI.
-* **Great Learning**: Introduction to AI, Machine Learning, and Deep Learning.
-* **Cisco**: Introduction to Data Science.
+### 📜 Licenses & Certifications
+* **Linear Algebra** – LinkedIn Learning (Dec 2025).
+* **Introduction to Large Language Models** – Google Cloud (Nov 2025).
+* **Introduction to Responsible AI** – Google Cloud (Nov 2025).
+* **MS Excel in an Hour** – GoSkills.com (Oct 2025).
+* **Introduction to Data Science** – Cisco (Sep 2025).
+* **GEN AI For Beginners** – Simplilearn (Aug 2025).
+* **Introduction to Generative AI** – Google Cloud (Aug 2024).
+* **Intro to Machine Learning** – Great Learning.
+* **Introduction Artificial Intelligence** – Great Learning.
+* **Introduction to Deep Learning** – Great Learning.
 
 ---
 
-### 🌍 Personal Logic & Languages
+### 🌍 Languages
+* **Bengali**: Native.
+* **Hindi**: Professional Working Proficiency.
+* **English**: Professional Working Proficiency.
+* **German**: Elementary (A1 in Progress).
 
-* **Languages**: Bengali (Native), Hindi (Fluent), English (Professional Working Proficiency), **German (A1 - In Progress)**.
-* **Disciplines**: 🎻 **Violin** (Precision & Focus), 🎨 **Sketching** (Visual Logic), 🏏 **Cricket** (Strategic Teamwork).
+---
+
+### 🎨 Interests & Hobbies
+* **Cricket**: Passionate about the strategy and teamwork involved in the game.
+* **Podcasts & Music**: Constant listener; I enjoy deep-dives into tech trends and diverse musical genres.
+* **Cinema & TV**: A fan of storytelling and visual narratives.
+* **Traveling**: Exploring new cultures and perspectives to keep my worldview fresh.
 
 ---
 
 ### 📫 Connect With Me
-
-* 🖼️ **Portfolio**: [Visit My Notion Showcase](https://muddy-chevre-cf0.notion.site/Sagar-Aspiring-Data-Analyst-Python-Developer-71e52794f5a54bb7afc05da85d41f7a7)
-* 💼 **LinkedIn**: [Sagar Dey](https://linkedin.com/in/sagar-dey-analytics)
-* ✍️ **Blog**: [Medium - @sagardey7440](https://medium.com/@sagardey7440)
-* 📸 **Daily Progress**: [@silentspecter_._](https://www.instagram.com/silentspecter_._/)
+* 🖼️ **Portfolio**: [Notion Showcase](https://muddy-chevre-cf0.notion.site/Sagar-Aspiring-Data-Analyst-Python-Developer-71e52794f5a54bb7afc05da85d41f7a7).
+* 💼 **LinkedIn**: [linkedin.com/in/sagar-dey-analytics](https://linkedin.com/in/sagar-dey-analytics).
+* ✍️ **Blog**: [Medium - @sagardey7440](https://medium.com/@sagardey7440).
+* 📸 **Instagram**: [@silentspecter_._](https://www.instagram.com/silentspecter_._/).
