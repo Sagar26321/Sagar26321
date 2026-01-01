@@ -1,39 +1,54 @@
-# Python Logic & Data Engineering Lab 🐍
+# 👋 I'm Sagar | Technical Explorer & Logic Builder
 
-Welcome to my technical repository. This space serves as a documentation of my journey into **Data Analytics and Machine Learning**, focusing on building robust logic engines and efficient data structures.
-
----
-
-## 🛠️ Featured Projects
-
-### 🏧 ATM System Simulation (New)
-**Focus:** *Object-Oriented Logic & Transactional Integrity*
-An interactive banking simulation that handles secure user sessions and real-time balance updates.
-* **Logic:** Implemented state-handling for deposits, withdrawals, and PIN verification.
-* **Key Feature:** Error-handling for overdrafts and invalid inputs.
-* [View Code Here](https://github.com/Sagar26321/Python-Practice-Log/blob/main/atm_simulation.py)
-
-### 🏰 Tower Adventure Game
-**Focus:** *Complex State Management & Narrative Logic*
-A terminal-based adventure engine utilizing nested data structures to manage game states.
-* **Logic:** Built a dynamic decision tree that reacts to user input in real-time.
-* [View Code Here](your_link)
-
-### 🔐 Password Strength Evaluator
-**Focus:** *Security Algorithms & String Analytics*
-A tool designed to evaluate string complexity against standard security protocols.
-* **Logic:** Uses Boolean logic to verify character diversity (symbols, numbers, casing).
-* [View Code Here](your_link)
+I am a **Tech Enthusiast** dedicated to uncovering the logical architecture that powers our digital world. Currently, I am building a rigorous foundation in **Python** and **Data Engineering**, with a deep fascination for the future of **AI and Machine Learning**.
 
 ---
 
-## 📊 Technical Learning Stack
-* **Languages:** Python (Logic, Loops, Dictionaries), SQL (In Progress).
-* **Math for ML:** Foundations of Linear Algebra.
-* **Tools:** VS Code, Git/GitHub, Terminal Navigation.
+### 🚀 Technical Projects (Logic Engines)
+
+* **🏧 ATM System Simulation**
+    * **Focus**: Object-Oriented Logic & Transactional Integrity.
+    * **Logic**: Implemented secure state-handling for deposits and withdrawals with real-time balance updates.
+* **🏰 Tower Adventure Game**
+    * **Focus**: Complex State Management & Narrative Flow.
+    * **Logic**: Utilizes nested data structures to map dynamic user decision trees.
+* **🔐 Password Strength Evaluator**
+    * **Focus**: Security Algorithms & String Analytics.
+    * **Logic**: Employs Boolean logic to verify character diversity against security protocols.
+* **💰 Real-Time Budget Tracker**
+    * **Focus**: User Interaction & Data Flow.
+    * **Logic**: An interactive tool designed to manage financial inputs with dynamic feedback.
+* **🎮 Snake Water Gun**
+    * **Focus**: Randomization Algorithms.
+    * **Logic**: Built using conditional loops and randomization logic to simulate competitive play.
 
 ---
 
-## 🌐 Connect & Collaborate
-* **Portfolio:** [My Notion Showcase](https://muddy-chevre-cf0.notion.site/Sagar-Aspiring-Data-Analyst-Python-Developer-71e52794f5a54bb7afc05da85d41f7a7)
-* **LinkedIn:** [Sagar Dey](https://linkedin.com/in/sagar-dey-analytics)
+### 📜 Verified Credentials & Learning Stack
+
+**🛠️ Technical Stack:**
+* **Programming**: Python (Logic, Data Structures, Input Handling).
+* **Mathematics**: Foundational Linear Algebra for Machine Learning.
+* **Systems**: Git/GitHub, VS Code, Terminal Navigation.
+
+**🎓 Key Certifications:**
+* **Google Cloud**: GenAI Foundations & Large Language Model (LLM) Architecture.
+* **LinkedIn Learning**: Machine Learning Foundations & Responsible AI.
+* **Great Learning**: Introduction to AI, Machine Learning, and Deep Learning.
+* **Cisco**: Introduction to Data Science.
+
+---
+
+### 🌍 Personal Logic & Languages
+
+* **Languages**: Bengali (Native), Hindi (Fluent), English (Professional), **German (A1 - In Progress)**.
+* **Disciplines**: 🎻 **Violin** (Precision & Focus), 🎨 **Sketching** (Visual Logic), 🏏 **Cricket** (Strategic Teamwork).
+
+---
+
+### 📫 Connect With Me
+
+* 🖼️ **Portfolio**: [Visit My Notion Showcase](https://muddy-chevre-cf0.notion.site/Sagar-Aspiring-Data-Analyst-Python-Developer-71e52794f5a54bb7afc05da85d41f7a7)
+* 💼 **LinkedIn**: [Sagar Dey](https://linkedin.com/in/sagar-dey-analytics)
+* ✍️ **Blog**: [Medium - @sagardey7440](https://medium.com/@sagardey7440)
+* 📸 **Daily Progress**: [@silentspecter_._](https://www.instagram.com/silentspecter_._/)
