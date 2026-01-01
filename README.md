@@ -7,8 +7,9 @@ I am a **Tech Enthusiast** dedicated to uncovering the logical architecture that
 ### 🚀 Technical Projects (Logic Engines)
 
 * **🏧 ATM System Simulation**
-    * **Focus**: Object-Oriented Logic & Transactional Integrity.
-    * **Logic**: Implemented secure state-handling for deposits and withdrawals with real-time balance updates.
+    * **Focus**: Functional Programming & Transactional Logic.
+    * **Logic**: A modular system built with Python definitions to manage secure user sessions, withdrawal limits, and real-time balance calculations through conditional flows.
+
 * **🏰 Tower Adventure Game**
     * **Focus**: Complex State Management & Narrative Flow.
     * **Logic**: Utilizes nested data structures to map dynamic user decision trees.
