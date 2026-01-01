@@ -1,77 +1,39 @@
-# <p align="center">Hi, I'm Sagar! <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="30px"></p>
+# Python Logic & Data Engineering Lab 🐍
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Python+Enthusiast;Continuous+Learner;Building+in+Public" alt="Typing SVG" />
-</p>
+Welcome to my technical repository. This space serves as a documentation of my journey into **Data Analytics and Machine Learning**, focusing on building robust logic engines and efficient data structures.
 
 ---
 
-### 👨‍💻 About Me
-I am an aspiring Data Analyst currently mastering the fundamentals of programming and data manipulation. I focus on building logical engines and documenting my growth daily.
+## 🛠️ Featured Projects
 
-- 🔭 **Featured Project:** [The Adventure Game - Tower Adventure](https://github.com/Sagar26321/Python-Practice-Log/blob/main/adventuregame.py)
-- 🌱 **Learning Path:** Python Basics → SQL → Pandas/NumPy → Power BI
-- 💬 **Ask me about:** Python logic, GenAI basics, and my transition into Data Analytics
+### 🏧 ATM System Simulation (New)
+**Focus:** *Object-Oriented Logic & Transactional Integrity*
+An interactive banking simulation that handles secure user sessions and real-time balance updates.
+* **Logic:** Implemented state-handling for deposits, withdrawals, and PIN verification.
+* **Key Feature:** Error-handling for overdrafts and invalid inputs.
+* [View Code Here](https://github.com/Sagar26321/Python-Practice-Log/blob/main/atm_simulation.py)
 
----
+### 🏰 Tower Adventure Game
+**Focus:** *Complex State Management & Narrative Logic*
+A terminal-based adventure engine utilizing nested data structures to manage game states.
+* **Logic:** Built a dynamic decision tree that reacts to user input in real-time.
+* [View Code Here](your_link)
 
-### 🗺️ My Learning Roadmap
-- [x] **Python Basics** (Mastering Logic 🐍)
-- [ ] **Python Libraries** (Pandas, NumPy)
-- [ ] **SQL & Databases** (Next Goal 🗄️)
-- [ ] **Data Visualization** (Power BI / Tableau)
-- [ ] **First End-to-End Data Project**
-
----
-
-### 📜 Licenses & Certifications
-- 🎓 **Mathematics:** [Linear Algebra for ML](https://www.linkedin.com/learning/certificates/1b6a783a4f92384b4a148f084adfd7a1acca4aa75e039f6b66e6b42d6211e38e)
-- 🤖 **Google Cloud AI:** [Intro to LLM](https://www.skills.google/public_profiles/a91746b5-cf8e-489a-bdc9-d657811a70de/badges/20395935) | [Responsible AI](https://www.skills.google/public_profiles/a91746b5-cf8e-489a-bdc9-d657811a70de/badges/20424328) | [Gen AI](https://www.cloudskillsboost.google/public_profiles/a91746b5-cf8e-489a-bdc9-d657811a70de/badges/10992331)
-- 🧠 **Machine Learning:** [Intro to ML](https://www.mygreatlearning.com/certificate/OXCJYJTK) | [Intro to AI](https://www.mygreatlearning.com/certificate/BWUKRMBL) | [Deep Learning](https://www.mygreatlearning.com/certificate/TKKXJRHN)
-- 📊 **Foundations:** Introduction to Data Science (Cisco) | GenAI for Beginners (Simplilearn)
-- 📈 **Tools:** MS Excel in an Hour (GoSkills.com)
+### 🔐 Password Strength Evaluator
+**Focus:** *Security Algorithms & String Analytics*
+A tool designed to evaluate string complexity against standard security protocols.
+* **Logic:** Uses Boolean logic to verify character diversity (symbols, numbers, casing).
+* [View Code Here](your_link)
 
 ---
 
-### 🌟 Featured Python Projects
-
-#### 🏰 [The Adventure Game: Tower Adventure](https://github.com/Sagar26321/Python-Practice-Log/blob/main/adventuregame.py)
-*A text-based game built from the ground up focusing on complex logic.*
-- **Key Features:** Modular functions for clean code, state management for player progress, and input validation.
-
-#### 🔐 [Password Strength Checker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/password_strength_checker.py)
-*Evaluates security strength using string iteration and boolean flags.*
-- **Focus:** `for` loops, character inspection, and conditional branching for scoring.
-
-#### 💰 [Real-time Budget Tracker](https://github.com/Sagar26321/Python-Practice-Log/blob/main/shoppinglist.py)
-*A shopping list budgeter providing live feedback on currency flow.*
-- **Focus:** `while` loops, list manipulation, and floating-point math for accuracy.
-
-#### 🎮 [Snake Water Gun Game](https://github.com/Sagar26321/Python-Practice-Log/blob/main/main.py)
-*A terminal-based classic implementing randomized computer moves.*
+## 📊 Technical Learning Stack
+* **Languages:** Python (Logic, Loops, Dictionaries), SQL (In Progress).
+* **Math for ML:** Foundations of Linear Algebra.
+* **Tools:** VS Code, Git/GitHub, Terminal Navigation.
 
 ---
 
-### 💻 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/sagar-dey-analytic" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://www.instagram.com/silentspecter_._/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-</p>
-
----
-<p align="center">✨ <i>"Building the foundation for complex data flows, one script at a time."</i> ✨</p>
+## 🌐 Connect & Collaborate
+* **Portfolio:** [My Notion Showcase](https://muddy-chevre-cf0.notion.site/Sagar-Aspiring-Data-Analyst-Python-Developer-71e52794f5a54bb7afc05da85d41f7a7)
+* **LinkedIn:** [Sagar Dey](https://linkedin.com/in/sagar-dey-analytics)
